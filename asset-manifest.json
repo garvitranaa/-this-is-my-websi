@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MY-WEBSITE/static/css/main.4c1c9276.css",
+    "main.js": "/MY-WEBSITE/static/js/main.694211cd.js",
+    "static/js/453.7476e934.chunk.js": "/MY-WEBSITE/static/js/453.7476e934.chunk.js",
+    "static/media/bg-light.png": "/MY-WEBSITE/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/MY-WEBSITE/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock05-new.png": "/MY-WEBSITE/static/media/mock05-new.ce9f471094b428b5b827.png",
+    "static/media/garvit-avatar.jpg": "/MY-WEBSITE/static/media/garvit-avatar.a8ee3fa8c277aa8eeea3.jpg",
+    "static/media/mock10-new.jpg": "/MY-WEBSITE/static/media/mock10-new.c9ee1575957091ebea06.jpg",
+    "index.html": "/MY-WEBSITE/index.html",
+    "main.4c1c9276.css.map": "/MY-WEBSITE/static/css/main.4c1c9276.css.map",
+    "main.694211cd.js.map": "/MY-WEBSITE/static/js/main.694211cd.js.map",
+    "453.7476e934.chunk.js.map": "/MY-WEBSITE/static/js/453.7476e934.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c1c9276.css",
+    "static/js/main.694211cd.js"
+  ]
+}
